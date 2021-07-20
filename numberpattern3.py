@@ -14,7 +14,7 @@ while(row < n):
         if row == 0 or row == col or col == 0:
             print(1, end = ' ')
         else:
-            print(row, end = ' ')
+            print(2, end = ' ')
         col = col +1
     print()
     row = row + 1
