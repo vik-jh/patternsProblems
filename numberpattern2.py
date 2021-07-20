@@ -21,4 +21,5 @@ while(row < n):
         else:
             print(0, end = ' ')
         col = col+1
+    print()
     row = row + 1
